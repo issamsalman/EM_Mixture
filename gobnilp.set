@@ -1,0 +1,4 @@
+gobnilp/outputfile/adjacencymatrix = "bi.mat"
+# gobnilp/dagconstraintsfile = "edge-constraints.txt"
+# gobnilp/dagconstraintsfile = "example.constraints"
+
